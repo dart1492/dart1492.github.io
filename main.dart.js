@@ -32675,7 +32675,7 @@ A.oh.prototype={
 ar(){return new A.Dc(B.m)}}
 A.Dc.prototype={
 P(a){var s=null,r=this.e
-return new A.nW(A.R6(A.mz(B.aQ,A.a([new A.pi(A.agl(s,s,new A.lf("DART_CAT.png",s,s)),310,340,s),B.B7,B.B8],t.D),B.bd),B.cg,new A.YQ(this),new A.YR(this),s),100,r,B.a3,B.b_,s,s)}}
+return new A.nW(A.R6(A.mz(B.aQ,A.a([new A.pi(A.agl(s,s,new A.lf("assets/DART_CAT.png",s,s)),310,340,s),B.B7,B.B8],t.D),B.bd),B.cg,new A.YQ(this),new A.YR(this),s),100,r,B.a3,B.b_,s,s)}}
 A.YQ.prototype={
 $1(a){var s=this.a
 s.aq(new A.YP(s))},
@@ -53010,7 +53010,7 @@ B.tx=new A.lc(2,"paused")
 B.ty=new A.lc(3,"detached")
 B.tz=new A.vv(null)
 B.jb=new A.o4(1,"assertive")
-B.bm=new A.lf("background.jpg",null,null)
+B.bm=new A.lf("assets/background.jpg",null,null)
 B.aR=new A.lh(0,"up")
 B.bn=new A.lh(1,"right")
 B.aS=new A.lh(2,"down")
